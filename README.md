@@ -14,7 +14,6 @@ Note that in `Rustol`, at the actual version of the tool, the user has to create
 
 * `rules/` - Where the rules are located
 * `test_files/` - Where the solidity files are located
-obs.: Better explanation [here](https://jansencmoreira.tech/?project=rustolprototype).
 
 
 ## Installation
