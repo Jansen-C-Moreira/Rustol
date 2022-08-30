@@ -33,7 +33,7 @@ static BANNER: &'static str = "
 
 fn main() {
     banner();
-    let path_name: String<> = String::from("test_folders"); // The directory where the solidity files are located
+    let path_name: String<> = String::from("test_files"); // The directory where the solidity files are located
     let rule_path: String<> = String::from("rules"); // The directory where the rules files are located
     creating_rules(); // Creating new rules, if the user wants it
     let rules = filling_in_struct(&rule_path); // filling in the struct with rules
