@@ -1,0 +1,3 @@
+2
+[L-02][LOW-RISK] - Unsafe ERC20 Operation(s)
+\.transfer\(|\.transferFrom\(|\.approve\(
