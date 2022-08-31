@@ -1,4 +1,4 @@
-<h1 align=center><code>Rustol</code></h1>
+<h1 align=center><code>Rustol(Prototype)</code></h1>
 
 <p align="center"><img src="https://jansencmoreira.tech/wp-content/uploads/2022/08/rustolImage.png"></p>
 
